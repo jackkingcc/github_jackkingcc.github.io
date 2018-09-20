@@ -17,9 +17,7 @@ favicon: favicon.png
 
 repository: jackkingcc/github_jackkingcc.github.io
 github_url: https://github.com/jackkingcc
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: https://jackkingcc.github.io/github_jackkingcc.github.io
-enforce_ssl: ityouknow.com
+url: https://jackkingcc.github.io
 
 ## Gem
 plugins:
