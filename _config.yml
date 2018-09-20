@@ -15,10 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: jackkingcc/github_jackkingcc.github.io
+repository: github_jackkingcc/github_jackkingcc.github.io
 github_url: https://github.com/github_jackkingcc
 cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://github_jackkingcc.github.io
+url: https://github_jackkingcc.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
